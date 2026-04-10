@@ -4,7 +4,7 @@ const productos = [
     nombre: "Auriculares Bluetooth",
     descripcion: "Auriculares inalámbricos con cancelación de ruido.",
     precio: 75.99,
-    imagen: "https://picsum.photos/200/200?random=1",
+    imagen: "https://m.media-amazon.com/images/I/61rFE093esL.jpg",
     reseñas: [
         {
             usuario: "Ana Ruiz",
@@ -18,7 +18,7 @@ const productos = [
     nombre: "Reloj Inteligente",
     descripcion: "Reloj con monitor de actividad física.",
     precio: 120,
-    imagen: "https://picsum.photos/200/200?random=2",
+    imagen: "https://i5-mx.walmartimages.com/mg/gm/3pp/asr/bbaa4924-2be6-46c5-8e14-f191d1ea6407.372e9488bfb8bde6e9f08d7b2e890a2d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
     reseñas: []
 },
 {
@@ -26,7 +26,7 @@ const productos = [
     nombre: "Webcam HD",
     descripcion: "Cámara web para videollamadas.",
     precio: 45.50,
-    imagen: "https://picsum.photos/200/200?random=3",
+    imagen: "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202303/01/00110110110805____1__1200x1200.jpg",
     reseñas: []
 }
 ]
